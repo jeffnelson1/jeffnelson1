@@ -1,7 +1,6 @@
 # Hey there, I'm Jeff 👋 
-- 👀 I’m interested in Cloud Computing, IaC, Scripting, DevOps, and Architecture
-- 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me: 
+- 👀 I’m interested in Cloud Computing, IaC, Scripting, DevOps, and Cloud Architecture
+- 📫 How to reach me: [![website](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](www.linkedin.com/in/jnels)
 
 
 ## 🧰 Languages and Tools:
