@@ -1,6 +1,6 @@
 # Hey there, I'm Jeff 👋 
 - 👀 I’m interested in Cloud Computing, IaC, Scripting, DevOps, and Cloud Architecture
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jnels/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jnels/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
 - 
 - [![website](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](www.linkedin.com/in/jnels)
 
