@@ -1,6 +1,5 @@
-### Hey there 👋 I'm [Jeff Nelson]
-- 👀 I’m interested in Cloud Computing, DevOps, and Architecture
-- 🌱 I’m currently learning ...
+# Hi there, I'm Jeff 👋 
+- 👀 I’m interested in Cloud Computing, IaC, Scripting, DevOps, and Architecture
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me ...
 
