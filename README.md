@@ -3,7 +3,7 @@
 
 ### Connect with me:
 
-      <a href="https://www.linkedin.com/in/jnels/"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="jnels | LinkedIn" width="30px"/></a>
+      <a href="https://www.linkedin.com/in/jnels/"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="jnels | LinkedIn" width="29px"/></a>
 
 ## 🧰 Languages and Tools:
 <p align="center">
