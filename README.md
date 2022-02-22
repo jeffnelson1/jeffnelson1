@@ -1,4 +1,4 @@
-# Hi there, I'm Jeff 👋 
+# Hey there, I'm Jeff 👋 
 - 👀 I’m interested in Cloud Computing, IaC, Scripting, DevOps, and Architecture
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me ...
