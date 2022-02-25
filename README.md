@@ -3,11 +3,8 @@
 - 📫 How to reach me: 
      <a href="https://www.linkedin.com/in/jnels/"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="jnels | LinkedIn" width="21px"/></a>
      
-<a <img align="" src=http://www.dannyquah.com/writings/en/files/2020/05/GitHub-Gist-1024x279.png" alt="jnels | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/jnels/"><img align="" src="http://www.dannyquah.com/writings/en/files/2020/05/GitHub-Gist-1024x279.png" alt="jnels | LinkedIn" width="21px"/></a>
      
-     
-http://www.dannyquah.com/writings/en/files/2020/05/GitHub-Gist-1024x279.png
-
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure" height="60" style="vertical-align:top; margin:4px">
