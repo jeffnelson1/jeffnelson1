@@ -3,7 +3,7 @@
 - 📫 How to reach me: 
      <a href="https://www.linkedin.com/in/jnels/"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="jnels | LinkedIn" width="21px"/></a>
      
-<a href="https://www.linkedin.com/in/jnels/"><img align="" src="http://www.dannyquah.com/writings/en/files/2020/05/GitHub-Gist-1024x279.png" alt="jnels | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/jnels/"><img align="" src="http://www.dannyquah.com/writings/en/files/2020/05/GitHub-Gist-1024x279.png" alt="jnels | LinkedIn" width="44px"/></a>
      
 ## 🧰 Languages and Tools:
 <p align="center">
