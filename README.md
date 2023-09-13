@@ -13,6 +13,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" alt="powershell" height="60" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
+<img src="https://www.zdnet.com/a/img/2015/07/21/bb0de0fc-5d9c-47c3-96dd-42ed50858fdb/kubernetes-logo.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">
+<img src="https://img-blog.csdnimg.cn/f3d7e68253ea4e87883716cc849777ec.png" alt="Docker" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="60" style="vertical-align:top; margin:4px">
 <img src="https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png" alt="azuredevops" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
